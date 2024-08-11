@@ -1,0 +1,7 @@
+*.user
+node_modules
+ui_*.h
+cmake-*
+bin
+build-*
+.idea
